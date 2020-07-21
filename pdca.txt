@@ -1,4 +1,19 @@
-P:40min
-D:30min
-C:npm install and "\t" take a lot of time;
+function isValid(start,end):
+P:5min
+D:6min
+C:npm environment configuration took a long time
+A:Configure the environment before coding
+
+
+
+function generateMultiplyTable(start,end):
+P:15min
+D:15min
+C:"\t" and "\n" take a lot of time;
+A:Think about the specific logic before writting it
+
+function createMultiplyTable(start, end):
+P:5min
+D:3min
+C:None
 A:Frequently use PDCA summaries and promotions
