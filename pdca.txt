@@ -1,0 +1,4 @@
+P:40min
+D:30min
+C:npm install and "\t" take a lot of time;
+A:Frequently use PDCA summaries and promotions
